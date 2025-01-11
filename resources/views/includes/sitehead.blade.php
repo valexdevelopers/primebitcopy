@@ -28,8 +28,8 @@
     <meta property="og:url" contenat="https://expertsoption.co">
     
     <meta name="keywords"
-        content="PrimeBitfx, bitcoin, bitcoin mining,mining,miner,bitcoin, buy bitcoin, buy bitcoins, bitcoin mining, cloud mining, bitcoin miners, cloud miners, cloud hashing, cloudhashing, virtual currency, crypto currency, digital currency">
-    <meta name="description" content="PrimeBitfx is a community of people who are interested in making money with Bitcoin and other crypto-currency opportunities. Learn how to profit from digital currencies.">
+        content="Act Digit, bitcoin, bitcoin mining,mining,miner,bitcoin, buy bitcoin, buy bitcoins, bitcoin mining, cloud mining, bitcoin miners, cloud miners, cloud hashing, cloudhashing, virtual currency, crypto currency, digital currency">
+    <meta name="description" content="Act Digit is a community of people who are interested in making money with Bitcoin and other crypto-currency opportunities. Learn how to profit from digital currencies.">
     <meta property="og:image" content="{{ asset('img/fb.png') }}">
     <meta property="og:url" content="https://expertsoption.co">
     

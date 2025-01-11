@@ -17,7 +17,7 @@ class PurchaseController extends Controller
         
         if(is_null($currenPlan)){
             $plan = 'none';
-            
+            $userPlan = null;
         }else{
             $userPlan = $currenPlan->plan;
             $plan = $userPlan->plan_name.' '.Auth::user()->currency.''.$userPlan->min_trade_amount.' - '.Auth::user()->currency.''.$userPlan->max_trade_amount;

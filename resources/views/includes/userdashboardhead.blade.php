@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=0.7, shrink-to-fit=no">
-	<meta name="description" content="PrimeBitfx is a community of people who are interested in making money with Bitcoin and other crypto-currency opportunities. Learn how to profit from digital currencies.">
+	<meta name="description" content="Act Digit is a community of people who are interested in making money with Bitcoin and other crypto-currency opportunities. Learn how to profit from digital currencies.">
 
     <meta name="author" content="">
 	<meta property="og:image" content="{{ asset('img/fb.png') }}">

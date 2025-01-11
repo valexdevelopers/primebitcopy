@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="html" lang="en-US">
 	<head>
-		<title>Contact &#8211; PrimeBitfx</title>
+		<title>Contact &#8211; Act Digit</title>
 		@include('includes.sitehead')
 	</head>
 	@include('includes.beforebody')
@@ -262,7 +262,7 @@
 																			</div>
 																			<div class="elementor-element elementor-element-4fa4495 elementor-widget elementor-widget-heading" data-id="4fa4495" data-element_type="widget" data-widget_type="heading.default">
 																				<div class="elementor-widget-container">
-																					<p class="elementor-heading-title elementor-size-default">Email: support@primebitfx.com</p>
+																					<p class="elementor-heading-title elementor-size-default">Email: support@actdigit.com</p>
 																				</div>
 																			</div>
 																		</div>

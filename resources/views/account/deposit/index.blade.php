@@ -130,7 +130,7 @@
 					<hr>
 					<b>
 					<span style="color:gold"> Once payment is made using this method you are to send your payment
-						proof to our support mail <a href="mailto:support@primebitfx.com">support@primebitfx.com</a></span><br>
+						proof to our support mail <a href="mailto:support@actdigit.com">support@actdigit.com</a></span><br>
 					<span style="color:#17a2b8 !important">Once requested, you will receive the payment details via our support mail....
 					</span>
 					</b>

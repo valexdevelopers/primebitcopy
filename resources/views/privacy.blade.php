@@ -2,7 +2,7 @@
 <html class="html" lang="en-US">
 
 	<head>
-		<title>Privacy &#8211; PrimeBitfx</title>
+		<title>Privacy &#8211; Act Digit</title>
 		@include('includes.sitehead')
 	</head>
 	@include('includes.beforebody')

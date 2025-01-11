@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="html" lang="en-US">
 	<head>
-		<title>CryptoCurrency &#8211; PrimeBitfx</title>
+		<title>CryptoCurrency &#8211; Act Digit</title>
 		@include('includes.sitehead')
 	</head>
 	@include('includes.beforebody')

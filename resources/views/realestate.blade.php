@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="html" lang="en-US">
   <head>
-    <title>Realestate &#8211; PrimeBitfx</title>
+    <title>Realestate &#8211; Act Digit</title>
     @include('includes.sitehead')
   </head>
 

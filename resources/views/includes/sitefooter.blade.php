@@ -13,7 +13,7 @@
                 <div class="footer-box span_1_of_4 col col-1">
                     <div id="media_image-4" class="footer-widget widget_media_image clr"><a href="#"><img width="211" height="50" src="{{asset('content/assets/uploads/2021/12/logo_header%2bdark.png')}}" class="image wp-image-803  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" /></a></div>
                     <div id="custom_html-7" class="widget_text footer-widget widget_custom_html clr">
-                        <div class="textwidget custom-html-widget">PrimeBitfx is fully automated trading
+                        <div class="textwidget custom-html-widget">Act Digit is fully automated trading
                             platform that gives you full control of your investment, and allows you to
                             withdraw your capital and profit at anytime.</div>
                     </div>
@@ -178,7 +178,7 @@
                                     <div class="oceanwp-info-wrap"><span class="oceanwp-contact-title">Whatsapp</span><span class="oceanwp-contact-text">+44(746) 579-5974</span></div>
                                 </li>
                                                                     <li class="email"><i class=" icon-envelope" aria-hidden="true" role="img"></i>
-                                <div class="oceanwp-info-wrap"><span class="oceanwp-contact-title">Email:</span><span class="oceanwp-contact-text"><a href="mailto:support@primebitfx.com">support@primebitfx.com</a><span class="screen-reader-text">Opens in your
+                                <div class="oceanwp-info-wrap"><span class="oceanwp-contact-title">Email:</span><span class="oceanwp-contact-text"><a href="mailto:support@actdigit.com">support@actdigit.com</a><span class="screen-reader-text">Opens in your
                                             application</span></span></div>
                             </li>
                         </ul>
@@ -233,7 +233,7 @@
 
 
                 <div id="copyright" class="clr" role="contentinfo">
-                    Copyright 2024 - PrimeBitfx
+                    Copyright 2024 - Act Digit
                 </div><!-- #copyright -->
 
 

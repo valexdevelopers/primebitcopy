@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Admin | PrimeBitfx</title>
+        <title>Admin | Act Digit</title>
         @include('includes.admindashboardhead')
     </head>
     <body class="menu-position-side menu-side-left full-screen with-content-panel">

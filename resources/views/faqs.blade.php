@@ -2,7 +2,7 @@
 <html class="html" lang="en-US">
 
 	<head>
-		<title>Faqs &#8211; PrimeBitfx</title>
+		<title>Faqs &#8211; Act Digit</title>
 		<link rel='stylesheet' id='743b1532f-css' href='{{ asset("content/assets/uploads/essential-addons-elementor/734e5f942.mine51de51d.html?ver=1651234935") }}' media='all' />
 		<!--n2css-->
 		@include('includes.sitehead')

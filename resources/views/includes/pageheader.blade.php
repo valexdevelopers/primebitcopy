@@ -4,7 +4,7 @@
         <div id="top-bar" class="clr container">
             <div id="top-bar-inner" class="clr">
                 <div id="top-bar-content" class="clr has-content top-bar-right">
-                    <span class="topbar-content">support@primebitfx.com</span>
+                    <span class="topbar-content">support@actdigit.com</span>
                 </div><!-- #top-bar-content -->
                 <div id="top-bar-social" class="clr top-bar-left">
 
@@ -44,7 +44,7 @@
 
                 <div id="site-logo-inner" class="clr">
 
-                    <a href="home" class="custom-logo-link" rel="home" aria-current="page"><img width="211" height="50" src="{{asset('content/assets/uploads/2021/12/logo_header%2bdark.png')}}" class="custom-logo" alt="PrimeBitfx" /></a>
+                    <a href="home" class="custom-logo-link" rel="home" aria-current="page"><img width="211" height="50" src="{{asset('content/assets/uploads/2021/12/logo_header%2bdark.png')}}" class="custom-logo" alt="Act Digit" /></a>
                 </div><!-- #site-logo-inner -->
 
 

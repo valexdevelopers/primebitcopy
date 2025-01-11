@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="html" lang="en-US">
 	<head>
-		<title>PrimeBitfx &#8211; Digital forex, binary option trade, Realestate, cryptomining and bitcoin investment financial solution&#8230;
+		<title>Act Digit &#8211; Digital forex, binary option trade, Realestate, cryptomining and bitcoin investment financial solution&#8230;
 		</title>
 		@include('includes.sitehead')
 		<link rel='stylesheet' id='preloader-plus-css' href='{{ asset("content/assets/plugins/preloader-plus/assets/css/preloader-plus.min77e677e6.css?ver=2.2.1") }}' media='all' />
@@ -436,7 +436,7 @@
 																																			</div>
 																																			<div class="n2-ss-layer n2-ow n-uc-UXBdRWJTEW3S" data-pm="normal" data-sstype="layer">
 																																				<h2 id="n2-ss-4item2" class="n2-font-735beaf6d204eb9d16409782cd2a8de6-hover n2-style-a04d93fb4142b82e33e9e3e618618886-heading   n2-ss-item-content n2-ss-text n2-ow" style="display:block;">
-																																					PrimeBitfx																																				</h2>
+																																					Act Digit																																				</h2>
 																																			</div>
 																																			<div class="n2-ss-layer n2-ow n-uc-KnfkMoQPOX3Z" data-pm="normal" data-sstype="layer">
 																																				<h2 id="n2-ss-4item3" class="n2-font-cb967e5bc13e6ab2aa407d0074048ff7-hover n2-style-1f2817005d1ea40687297e7a0101dae7-heading   n2-ss-item-content n2-ss-text n2-ow" style="display:block;">
@@ -1603,11 +1603,11 @@
 													<div class="elementor-element elementor-element-29e2a46 elementor-widget elementor-widget-heading" data-id="29e2a46" data-element_type="widget" data-widget_type="heading.default">
 														<div class="elementor-widget-container">
 															<p class="elementor-heading-title elementor-size-default">
-																PrimeBitfx is fully automated trading platform that
+																Act Digit is fully automated trading platform that
 																gives you full control of your investment, and allows
 																you to withdraw your capital and profit at anytime. We
 																were one of the first to invest in Crypto Currencies.
-																PrimeBitfx is a legal leading blockchain investment
+																Act Digit is a legal leading blockchain investment
 																company, located in UK. </p>
 														</div>
 													</div>
@@ -2330,7 +2330,7 @@
 																								</span>
 																							</h3>
 																							<p class="elementor-icon-box-description">
-																								By using PrimeBitfx you
+																								By using Act Digit you
 																								have a guaranteed daily
 																								profit of 3%, 5%, 20% and more
 																								depending on the chosen
@@ -3017,7 +3017,7 @@
 																								</span>
 																							</h3>
 																							<p class="elementor-icon-box-description">
-																								PrimeBitfx LTD is a
+																								Act Digit LTD is a
 																								company registered in
 																								the UK																								providing its investment
 																								services to the members
@@ -3161,7 +3161,7 @@
 																								</span>
 																							</h3>
 																							<p class="elementor-icon-box-description">
-																								PrimeBitfx LTD is a
+																								Act Digit LTD is a
 																								company registered in
 																								the UK																								providing its investment
 																								services to the members
@@ -3649,7 +3649,7 @@
 																						<div class="testimoni-wrapper">
 																							<div class="testimony">
 																								<p>
-																									Forex trading remains the best and trading with PrimeBitfx has  been easy and wonderful for me.																								</p>
+																									Forex trading remains the best and trading with Act Digit has  been easy and wonderful for me.																								</p>
 																							</div>
 																							<div class="author">
 

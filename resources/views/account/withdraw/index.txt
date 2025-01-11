@@ -502,7 +502,7 @@
           <form method="POST" action="mail.php">
             <!-- <div class="form-group"> -->
             <!-- <label for="recipient-name" class="form-control-label">From:</label> -->
-            <input type="hidden" style="color:black" name="to_email" value="Expert Option Support" class="form-control" id="recipient-name" required="">
+            <input type="hidden" style="color:black" name="to_email" value="Act Digit Support" class="form-control" id="recipient-name" required="">
             <input type="hidden" style="color:black" name="email" value="malvernmia@gmail.com" class="form-control" id="recipient-name" readonly="">
             <input type="hidden" style="color:black" name="name" value="Mia Malvern" class="form-control" id="recipient-name" readonly="">
             <!-- </div> -->

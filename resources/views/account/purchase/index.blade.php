@@ -119,7 +119,7 @@
 										<option selected disabled value>-- select package type --</option>
 										@if($allplans->count() > 0)
 											@foreach($allplans as $allplan)
-												@if($allplan->id === $userPlan->id)
+												@if(!is_null($userPlan) && $allplan->id === $userPlan->id)
 												{{--  don't display current user plan --}}
 												@else
 													<option value="{{ $allplan->id }}">{{ $allplan->plan_name }}  {{ Auth::user()->currency }}{{ $allplan->min_trade_amount }} - {{ Auth::user()->currency }}{{ $allplan->max_trade_amount }}</option>

@@ -8,7 +8,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="shortcut icon" href="../favicon.html" type="image/x-icon">
-        <title>Admin Register | PrimeBitfx </title> 
+        <title>Admin Register | Act Digit </title> 
         <link rel="stylesheet" href="{{ asset('vendor/font-awesome-4.7.0/css/font-awesome.min.css') }}" type="text/css">
         <link rel="stylesheet" href="{{ asset('vendor/bootstrap-4.1.1/css/bootstrap.css') }}" type="text/css">
         <link rel="stylesheet" href="{{ asset('css/light_adminux.css') }}" type="text/css">
@@ -26,7 +26,7 @@
     <!-- end-g-hide -->
 
 <body oncut="return false" class="menuclose menuclose-right" style="background:gray">
-  <!-- <figure class="background"> <img src="img/kk7.gif" alt="PrimeBitfx"> </figure> -->
+  <!-- <figure class="background"> <img src="img/kk7.gif" alt="Act Digit"> </figure> -->
 
     <figure class="background">
 		<video autoplay muted="muted" loop id="myVideo">

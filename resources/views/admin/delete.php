@@ -119,7 +119,7 @@ $sql11 = "DROP TABLE passbook".$iid;
             <div class="logo-w menu-size">
                 <a class="logo" href="index.php">
                     
-                    <div class="logo-label">primebitfx</div>
+                    <div class="logo-label">Act Digit</div>
                 </a></div>
                 
                 
